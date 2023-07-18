@@ -1,5 +1,14 @@
-#define MOTOR_R_PIN_1 11     // the number of the Front motor Right side pin
+//BotDulars Arduino Program Kit//
+//G2R Nano Bot - Line Follower Car / Robot Program// 
 
+/*//Before start the motor please calibrate the line sensors with trimpot adjustments
+the yellow led sholud on in the black line and off in the white area
+The black line width should be in between the sensors. //*/ 	
+	
+
+
+
+#define MOTOR_R_PIN_1 11     // the number of the Front motor Right side pin
 #define MOTOR_R_PIN_2 6     // the number of the Back motor Right side pin
 #define MOTOR_L_PIN_1 5     // the number of the Front motor Left side pin
 #define MOTOR_L_PIN_2 3     // the number of the Back motor Left side pin
