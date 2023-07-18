@@ -1,3 +1,6 @@
+//BotDulars Arduino Program Kit//
+//G2R Nano Bot - OLED Display Program// 
+
 #include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
