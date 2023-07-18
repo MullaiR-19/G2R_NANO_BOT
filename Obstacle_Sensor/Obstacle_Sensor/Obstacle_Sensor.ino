@@ -1,12 +1,11 @@
 /*
- * Created by ArduinoGetStarted.com
- *
- * This example code is in the public domain
- *
- * Tutorial page: https://arduinogetstarted.com/tutorials/arduino-infrared-obstacle-avoidance-sensor
+ //BotDulars Arduino Program Kit//
+//G2R Nano Bot - Obstacle Sensor / Line Sensor Program// 
+
  */
 
 // Arduino's pin connected to OUT pin of IR obstacle avoidance sensor
+
 const int SENSOR1_PIN = A0;
 const int SENSOR2_PIN = A1;
 
