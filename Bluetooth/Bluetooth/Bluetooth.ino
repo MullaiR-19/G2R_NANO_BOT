@@ -1,10 +1,11 @@
-/*Code to control an LED via bluetooth through a phone app.
-Project  by MukeshArvindh. Code by MukeshArvindh.*/
-
-
-
-//Bluetooth  uses serial communication. So, we use many serial functions 
+//BotDulars Arduino Program Kit//
+//G2R Nano Bot - Bluetooth Program// 
+/*Code to control an LED via bluetooth through a phone app *///Bluetooth  uses serial communication. So, we use many serial functions 
 //in this sketch.  
+//Get Blutooth phone app from the playstore//
+// https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en&gl=US  //
+
+
 const int LED = 4;
 
 char switchstate;
