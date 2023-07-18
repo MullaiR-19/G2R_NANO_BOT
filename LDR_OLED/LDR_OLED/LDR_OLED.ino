@@ -1,3 +1,6 @@
+//BotDulars Arduino Program Kit//
+//G2R Nano Bot - LDR Sensor with OLED Display Program// 
+
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
